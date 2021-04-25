@@ -1,1 +1,1 @@
-# partner-azure
+# AzureWebService
