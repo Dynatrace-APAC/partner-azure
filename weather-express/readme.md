@@ -11,5 +11,5 @@ and then visit
 
 in your browser. You *should* see stuff now.
 
-Take a look at `~/config/main.js` for available configuration options (like Redis configuration).# vboot-azure
+Take a look at `~/config/main.js` for available configuration options (like Redis configuration).
 # vboot-azure
